@@ -1,10 +1,10 @@
 name: App Deployment
 on:
   push:
-    branches: [ master ]
+    branches: [ jasilez ]
 env:
-  PUBLIC_API_URL: "https://api.roadmap.sh"
-  PUBLIC_EDITOR_APP_URL: "https://draw.roadmap.sh"
+  PUBLIC_API_URL: "https://api.stemdolearning.io"
+  PUBLIC_EDITOR_APP_URL: "https://draw.stemdolearning.io"
   PUBLIC_AVATAR_BASE_URL: "https://dodrc8eu8m09s.cloudfront.net/avatars"
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   CI: true
@@ -32,10 +32,10 @@ jobs:
         npm run generate-renderer
         npm run build
         touch ./dist/.nojekyll
-        echo 'roadmap.sh' > ./dist/CNAME
+        echo 'stemdolearning.io' > ./dist/CNAME
     - name: Deploy to GH Pages
       run: |
-        git config user.email "kamranahmed.se@gmail.com"
-        git config user.name "Kamran Ahmed"
+        git config user.email "jaime.silva.glez@gmail.com"
+        git config user.name "JaSiLeZ"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         npm run deploy
