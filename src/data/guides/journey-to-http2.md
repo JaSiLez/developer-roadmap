@@ -3,7 +3,7 @@ title: 'Journey to HTTP/2'
 description: 'The evolution of HTTP. How it all started and where we stand today'
 authorId: 'kamran'
 seo:
-  title: 'Journey to HTTP/2 - roadmap.sh'
+  title: 'Journey to HTTP/2 - stemdo-roadmap.io'
   description: 'The evolution of HTTP. How it all started and where we stand today'
 isNew: false
 type: 'textual'

@@ -3,7 +3,7 @@ title: 'Introduction to LLMs'
 description: 'What are LLMs, how does ChatGPT and other LLMs work?'
 authorId: 'kamran'
 seo:
-  title: 'Introduction to LLMs - roadmap.sh'
+  title: 'Introduction to LLMs - stemdo-roadmap.io'
   description: 'What are LLMs, how does ChatGPT and other LLMs work?'
 isNew: false
 type: 'textual'

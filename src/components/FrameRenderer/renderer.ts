@@ -230,7 +230,7 @@ export class Renderer {
     if (/^ext_link/.test(groupId)) {
       const externalLink = groupId.replace('ext_link:', '');
 
-      if (!externalLink.startsWith('roadmap.sh')) {
+      if (!externalLink.startsWith('stemdo-roadmap.io')) {
         window.fireEvent({
           category: 'RoadmapExternalLink',
           action: `${this.resourceType} / ${this.resourceId}`,

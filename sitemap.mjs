@@ -11,28 +11,28 @@ async function getBestPracticesIds() {
 
 export function shouldIndexPage(pageUrl) {
   return ![
-    'https://roadmap.sh/404',
-    'https://roadmap.sh/terms',
-    'https://roadmap.sh/privacy',
-    'https://roadmap.sh/pdfs',
-    'https://roadmap.sh/g',
+    'https://stemdo-roadmap.io/404',
+    'https://stemdo-roadmap.io/terms',
+    'https://stemdo-roadmap.io/privacy',
+    'https://stemdo-roadmap.io/pdfs',
+    'https://stemdo-roadmap.io/g',
   ].includes(pageUrl);
 }
 
 export async function serializeSitemap(item) {
   const highPriorityPages = [
-    'https://roadmap.sh',
-    'https://roadmap.sh/about',
-    'https://roadmap.sh/roadmaps',
-    'https://roadmap.sh/best-practices',
-    'https://roadmap.sh/guides',
-    'https://roadmap.sh/videos',
+    'https://stemdo-roadmap.io',
+    'https://stemdo-roadmap.io/about',
+    'https://stemdo-roadmap.io/roadmaps',
+    'https://stemdo-roadmap.io/best-practices',
+    'https://stemdo-roadmap.io/guides',
+    'https://stemdo-roadmap.io/videos',
     ...(await getRoadmapIds()).flatMap((id) => [
-      `https://roadmap.sh/${id}`,
-      `https://roadmap.sh/${id}/topics`,
+      `https://stemdo-roadmap.io/${id}`,
+      `https://stemdo-roadmap.io/${id}/topics`,
     ]),
     ...(await getBestPracticesIds()).map(
-      (id) => `https://roadmap.sh/best-practices/${id}`
+      (id) => `https://stemdo-roadmap.io/best-practices/${id}`
     ),
   ];
 
@@ -50,8 +50,8 @@ export async function serializeSitemap(item) {
 
   // Guide and video pages
   if (
-    item.url.startsWith('https://roadmap.sh/guides') ||
-    item.url.startsWith('https://roadmap.sh/videos')
+    item.url.startsWith('https://stemdo-roadmap.io/guides') ||
+    item.url.startsWith('https://stemdo-roadmap.io/videos')
   ) {
     return {
       ...item,

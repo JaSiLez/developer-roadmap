@@ -41,7 +41,7 @@ A backend developer focuses entirely on writing business logic for an applicatio
 
 That said, there might be applications where the business logic is split into the frontend and the backend.  However, while the frontend dev might have to share their time between UI code and business logic, the backend dev will focus most of their time on core business logic. That’s the main difference between the two.
 
-![UI vs Backend](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709056806118.png)
+![UI vs Backend](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709056806118.png)
 
 In the above image, you can see how there is a lot more behind the curtain than just the UI when it comes to web applications. In this case, a “simple” log-in form needs a backend to contain its core business logic.
 
@@ -53,18 +53,18 @@ One of the most basic skills you should focus on as a backend developer is on id
 
 There are some essential backend languages that the industry has adopted as de facto standards. This means most new projects are usually coded using one (or multiple) of these programming languages.
 
-![core-languages](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709058292005.png)
+![core-languages](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709058292005.png)
 
 The most common names you should look out for are:
 
 - **JavaScript (or any of its variants, such as TypeScript).** This is a very common option because it’s also the language used by frontend developers, thus making it easier for developers to work on both sides of the same project.
-- **Python.** While a very common option for other types of projects (such as data processing and [data science](https://roadmap.sh/ai-data-scientist)), it’s still very popular in the web development world. Python has many good qualities and supporting frameworks that make it a very easy-to-pick-up option for coding backend systems.
+- **Python.** While a very common option for other types of projects (such as data processing and [data science](https://stemdo-roadmap.io/ai-data-scientist)), it’s still very popular in the web development world. Python has many good qualities and supporting frameworks that make it a very easy-to-pick-up option for coding backend systems.
 - **Go (A.K.A Golang).** This programming language was developed by Google. It was designed with simplicity, efficiency, and concurrency in mind. That’s made it gain popularity in the backend development space, making it an interesting option for projects that prioritize performance and concurrency.
-- **Java.** One of the most common alternatives for enterprise solutions, Java, has been constantly evolving since its first release back in 1995. All that time making its way into big enterprises that trust its robustness and ever-growing community of developers. While not the easiest language to learn, it’s definitely up there in the top 10 most popular [backend languages](https://roadmap.sh/backend/languages) (according to [StackOverflow’s 2023 Developer survey](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies)).
+- **Java.** One of the most common alternatives for enterprise solutions, Java, has been constantly evolving since its first release back in 1995. All that time making its way into big enterprises that trust its robustness and ever-growing community of developers. While not the easiest language to learn, it’s definitely up there in the top 10 most popular [backend languages](https://stemdo-roadmap.io/backend/languages) (according to [StackOverflow’s 2023 Developer survey](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies)).
 
 While there are other options, the ones mentioned above, from the backend point of view, are some of the most relevant languages to pay attention to. Here are the top 10 most popular ones amongst professional developers (screenshot taken from SO’s survey of 2023):
 
-![Stackoverflow Survey Result](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709057007054.png)
+![Stackoverflow Survey Result](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709057007054.png)
 
 ### Keeping an eye on the rising stars
 
@@ -74,7 +74,7 @@ You won’t see a new programming language being released every month. However, 
 
 For example, take a look at the period between 2012 and 2015; in just 3 years, 9 programming languages were released, out of which most of them are being used to this day.
 
-![Famous Languages](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709058257292.png)
+![Famous Languages](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709058257292.png)
 
 - In 2012, we got Julia, Elm, Go, and TypeScript.
 - In 2013, we got Dart
@@ -106,7 +106,7 @@ While that statement might be a bit confusing, the truth is there is a lot of ar
 
 The following diagram shows an example of what a very simple system’s architecture might look like:
 
-![Simple System Architecture](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709057266440.png)
+![Simple System Architecture](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709057266440.png)
 
 While the example is oversimplified, it gives you an idea of what the practice of “architecting a system” is.
 
@@ -127,7 +127,7 @@ There are too many different architectural styles and patterns to cover them all
 - **Serverless Architecture:** Also known as Function as a Service (FaaS), serverless architecture allows you to focus on writing code without worrying about the server where they’ll run. Functions are executed in response to events without the need for provisioning or managing servers (this is done FOR you automatically).
 - **Microkernel architecture:** This architecture lets you build the core, essential functionality into a small microkernel and have the rest of the features built as plugins that can be added, removed  or exchanged easily.
 
-And if you want to know more about the patterns and principles mentioned here, please check out the [Software Design and Architecture roadmap](https://roadmap.sh/software-design-architecture).
+And if you want to know more about the patterns and principles mentioned here, please check out the [Software Design and Architecture roadmap](https://stemdo-roadmap.io/software-design-architecture).
 
 ## Mastery of Database Management Systems
 
@@ -137,7 +137,7 @@ Because of that, it’s important to understand that you should be aware of two 
 
 ### SQL databases
 
-These are the standard structured databases (A.K.A relational databases) where you need to define the schema for your data (essentially the data structures you’re dealing with), and then you’ll use a language called [SQL (Structured Query Language)](https://roadmap.sh/sql) to interact with the data inside it. Most backend developers will interact with SQL databases at some point in their career, as this is the most common type of database.
+These are the standard structured databases (A.K.A relational databases) where you need to define the schema for your data (essentially the data structures you’re dealing with), and then you’ll use a language called [SQL (Structured Query Language)](https://stemdo-roadmap.io/sql) to interact with the data inside it. Most backend developers will interact with SQL databases at some point in their career, as this is the most common type of database.
 
 ### NoSQL databases
 
@@ -158,7 +158,7 @@ Application Programming Interfaces (APIs) are everywhere. They power the backend
 
 That is to say, if you’re thinking about becoming a backend developer, you will be coding APIs/microservices. This is why understanding the basics of them is crucial to ensuring your relevance in the field.
 
-![System vs External System](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709057608824.png)
+![System vs External System](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709057608824.png)
 
 The above diagram explains how APIs interact with whatever you might be building.
 
@@ -217,7 +217,7 @@ Testing is a far more complex discipline than I can describe here. Just know tha
 
 You can think of the list in graphical format as the following diagram:
 
-![Testing types](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709057834295.png)
+![Testing types](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709057834295.png)
 
 If you’re just getting started with testing, I’d recommend focusing only on unit testing for the time being. Once you have a grasp on it, start moving out following the above diagram and slowly move into the other types as you progress.
 
@@ -225,13 +225,13 @@ If you’re just getting started with testing, I’d recommend focusing only on 
 
 As a backend developer, your code will be constantly deployed, either into cloud environments or perhaps even into normal, on-premise servers. The point is that what you build will run through CI/CD (Continuous Integration and Continuous Deployment) processes.
 
-![ci-cd](https://assets.roadmap.sh/guest/6529303b545cb53d4aa730ca_1709058122541.png)
+![ci-cd](https://assets.stemdo-roadmap.io/guest/6529303b545cb53d4aa730ca_1709058122541.png)
 
 These processes will automatically test it (Continuous Integration) and automatically deploy it (if all tests go well). As a backend developer, you’re not usually expected to know and understand how to configure these processes; however, it’s important that you know about them.
 
 DevOps is yet another tangential area to that of a backend developer. When teams are small enough, backend devs might be “gently pushed” into tasks such as configuring CI/CD pipelines, setting up servers, and more. These tasks are usually performed by dedicated professionals with the role of DevOps. Their specialty is automation, making the deployment process efficient and ensuring that everything runs smoothly in the real-world server environment. They play a crucial role in maintaining the reliability and performance of applications and websites.
 
-So, while they’re not strictly the responsibilities of backend developers, they’re close enough to the role’s day-to-day that it would be a good idea to learn about them. If you’re interested in learning more about DevOps, check out [our DevOps roadmap](https://roadmap.sh/devops) containing all the key topics you should learn about if you want to become a DevOps engineer.
+So, while they’re not strictly the responsibilities of backend developers, they’re close enough to the role’s day-to-day that it would be a good idea to learn about them. If you’re interested in learning more about DevOps, check out [our DevOps roadmap](https://stemdo-roadmap.io/devops) containing all the key topics you should learn about if you want to become a DevOps engineer.
 
 ## Soft Skills
 
@@ -265,6 +265,6 @@ To summarize, if you expect to become a backend developer or to grow in the area
 - CI/CD and DevOps are practices you’ll be involved with, either directly or indirectly, so learn about them.
 - Soft skills are just as important as technical skills if you expect to grow in your career.
 
-That said, do not take this list as the ultimate roadmap but rather as a starting point. If you’re willing to take your backend developer career to the next level, push yourself out of your comfort zone and pursue the skills listed here and the ones listed in this detailed [backend development roadmap](https://roadmap.sh/backend).
+That said, do not take this list as the ultimate roadmap but rather as a starting point. If you’re willing to take your backend developer career to the next level, push yourself out of your comfort zone and pursue the skills listed here and the ones listed in this detailed [backend development roadmap](https://stemdo-roadmap.io/backend).
 
 Remember, constant learning is the only absolute truth in the software development world (this is true for backend developers, too). If you keep your skillset updated with the latest trends, you’ll remain adaptable and effective as a backend developer.

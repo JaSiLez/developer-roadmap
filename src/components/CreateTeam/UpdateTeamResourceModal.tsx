@@ -68,7 +68,7 @@ export function UpdateTeamResourceModal(props: ProgressMapProps) {
 
   let resourceJsonUrl = import.meta.env.DEV
     ? 'http://localhost:3000'
-    : 'https://roadmap.sh';
+    : 'https://stemdo-roadmap.io';
   if (resourceType === 'roadmap') {
     resourceJsonUrl += `/${resourceId}.json`;
   } else {

@@ -3,7 +3,7 @@ title: 'Async and Defer Script Loading'
 description: 'Learn how to avoid render blocking JavaScript using async and defer scripts.'
 authorId: 'kamran'
 seo:
-  title: 'Async and Defer Script Loading - roadmap.sh'
+  title: 'Async and Defer Script Loading - stemdo-roadmap.io'
   description: 'Learn how to avoid render blocking JavaScript using async and defer scripts.'
 isNew: false
 type: 'visual'

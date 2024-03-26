@@ -3,7 +3,7 @@ title: 'Character Encodings'
 description: 'Covers the basics of character encodings and explains ASCII vs Unicode'
 authorId: 'kamran'
 seo:
-  title: 'Character Encodings - roadmap.sh'
+  title: 'Character Encodings - stemdo-roadmap.io'
   description: 'Covers the basics of character encodings and explains ASCII vs Unicode'
 isNew: false
 type: 'visual'

@@ -156,7 +156,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:stemdo-roadmap.io"
                   },
                   "children": {
                     "controls": {
@@ -186,7 +186,7 @@
                           "y": "11",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
+                            "text": "https://stemdo-roadmap.io",
                             "size": "18"
                           }
                         }
@@ -338,7 +338,7 @@
                   "x": "28",
                   "y": "77",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/computer-science"
+                    "controlName": "ext_link:stemdo-roadmap.io/computer-science"
                   },
                   "children": {
                     "controls": {
@@ -420,7 +420,7 @@
                   "x": "28",
                   "y": "113",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/get-started"
+                    "controlName": "ext_link:stemdo-roadmap.io/get-started"
                   },
                   "children": {
                     "controls": {

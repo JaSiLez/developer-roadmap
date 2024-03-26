@@ -3,7 +3,7 @@ title: 'Design Patterns for Humans'
 description: 'A language agnostic, ultra-simplified explanation to design patterns'
 authorId: 'kamran'
 seo:
-  title: 'Design Patterns for Humans - roadmap.sh'
+  title: 'Design Patterns for Humans - stemdo-roadmap.io'
   description: 'A language agnostic, ultra-simplified explanation to design patterns'
 isNew: false
 type: 'textual'

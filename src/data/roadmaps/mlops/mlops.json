@@ -107,7 +107,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:stemdo-roadmap.io"
                   },
                   "children": {
                     "controls": {
@@ -138,7 +138,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "stemdo-roadmap.io"
                           }
                         },
                         {
@@ -532,7 +532,7 @@
           "x": "626",
           "y": "1001",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/ai-data-scientist"
+            "controlName": "ext_link:stemdo-roadmap.io/ai-data-scientist"
           },
           "children": {
             "controls": {
@@ -627,7 +627,7 @@
           "x": "626",
           "y": "1039",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops"
+            "controlName": "ext_link:stemdo-roadmap.io/devops"
           },
           "children": {
             "controls": {
@@ -709,7 +709,7 @@
           "x": "835",
           "y": "1039",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:stemdo-roadmap.io/backend"
           },
           "children": {
             "controls": {

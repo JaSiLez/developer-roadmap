@@ -3,7 +3,7 @@ title: 'Brief History of JavaScript'
 description: 'How JavaScript was introduced and evolved over the years'
 authorId: 'kamran'
 seo:
-  title: 'Brief History of JavaScript - roadmap.sh'
+  title: 'Brief History of JavaScript - stemdo-roadmap.io'
   description: 'How JavaScript was introduced and evolved over the years'
 isNew: false
 type: 'textual'

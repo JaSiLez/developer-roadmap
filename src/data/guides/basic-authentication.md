@@ -3,7 +3,7 @@ title: 'Basic Authentication'
 description: 'Understand what is basic authentication and how it is implemented'
 authorId: 'kamran'
 seo:
-  title: 'Basic Authentication - roadmap.sh'
+  title: 'Basic Authentication - stemdo-roadmap.io'
   description: 'Understand what is basic authentication and how it is implemented'
 isNew: false
 type: 'visual'

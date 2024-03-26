@@ -239,7 +239,7 @@ async function generateGuideOpenGraph() {
   for (const guide of allGuides) {
     const author = allAuthors.find((author) => author.id === guide.authorId);
     const image =
-      author?.imageUrl || 'https://roadmap.sh/images/default-avatar.png';
+      author?.imageUrl || 'https://stemdo-roadmap.io/images/default-avatar.png';
     const isExternalImage = image?.startsWith('http');
     let authorImageExtention = '';
     let authorAvatar;

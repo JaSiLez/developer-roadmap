@@ -14,7 +14,7 @@ dimensions:
 schema:
   headline: 'QA Engineer Roadmap'
   description: 'Learn to become a QA Engineer with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
-  imageUrl: 'https://roadmap.sh/roadmaps/qa.png'
+  imageUrl: 'https://stemdo-roadmap.io/roadmaps/qa.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:

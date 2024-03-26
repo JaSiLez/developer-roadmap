@@ -22,7 +22,7 @@ export function CustomRoadmapAlert() {
         </h2>
         <p className="mt-2 mb-2.5 sm:mb-1.5 sm:mt-1 text-sm text-yellow-800 sm:text-base">
           This is a custom roadmap made by a community member and is not verified by{' '}
-          <span className="font-semibold">roadmap.sh</span>
+          <span className="font-semibold">stemdo-roadmap.io</span>
         </p>
         <div className="flex items-start sm:items-center flex-col sm:flex-row gap-2">
           <a

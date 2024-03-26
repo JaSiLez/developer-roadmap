@@ -20,6 +20,6 @@ body:
       label: Roadmap Link
       description: Please create the roadmap [using our roadmap editor](https://twitter.com/kamrify/status/1708293162693767426) and submit the roadmap link.
       placeholder: |
-          https://roadmap.sh/xyz
+          https://stemdo-roadmap.io/xyz
     validations:
       required: true

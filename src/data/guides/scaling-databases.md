@@ -3,7 +3,7 @@ title: 'Scaling Databases'
 description: 'Learn the ups and downs of different database scaling strategies'
 authorId: 'kamran'
 seo:
-  title: 'Scaling Databases - roadmap.sh'
+  title: 'Scaling Databases - stemdo-roadmap.io'
   description: 'Learn the ups and downs of different database scaling strategies'
 isNew: false
 type: 'visual'

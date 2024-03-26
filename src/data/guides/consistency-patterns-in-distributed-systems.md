@@ -3,7 +3,7 @@ title: 'Consistency Patterns'
 description: 'Everything you need to know about Week, Strong and Eventual Consistency'
 authorId: 'kamran'
 seo:
-  title: 'Consistency Patterns - roadmap.sh'
+  title: 'Consistency Patterns - stemdo-roadmap.io'
   description: 'Everything you need to know about Week, Strong and Eventual Consistency'
 isNew: false
 canonicalUrl: 'https://cs.fyi/guide/consistency-patterns-week-strong-eventual/'

@@ -3,7 +3,7 @@ title: 'Session Based Authentication'
 description: 'Understand what is session based authentication and how it is implemented'
 authorId: 'kamran'
 seo:
-  title: 'Session Based Authentication - roadmap.sh'
+  title: 'Session Based Authentication - stemdo-roadmap.io'
   description: 'Understand what is session based authentication and how it is implemented'
 isNew: false
 type: 'visual'

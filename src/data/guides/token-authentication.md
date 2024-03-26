@@ -3,7 +3,7 @@ title: 'Token Based Authentication'
 description: 'Understand what is token based authentication and how it is implemented'
 authorId: 'kamran'
 seo:
-  title: 'Token Based Authentication - roadmap.sh'
+  title: 'Token Based Authentication - stemdo-roadmap.io'
   description: 'Understand what is token based authentication and how it is implemented'
 isNew: false
 type: 'visual'

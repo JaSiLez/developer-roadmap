@@ -3,7 +3,7 @@ title: 'How does the internet work?'
 description: 'Learn the basics of internet and everything involved with this short video series'
 authorId: 'kamran'
 seo:
-  title: 'How does the internet work? - roadmap.sh'
+  title: 'How does the internet work? - stemdo-roadmap.io'
   description: 'Learn the basics of internet and everything involved with this short video series'
 isNew: false
 type: 'textual'

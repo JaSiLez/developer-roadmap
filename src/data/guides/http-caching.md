@@ -3,7 +3,7 @@ title: 'HTTP Caching'
 description: 'Everything you need to know about web caching'
 authorId: 'kamran'
 seo:
-  title: 'HTTP Caching - roadmap.sh'
+  title: 'HTTP Caching - stemdo-roadmap.io'
   description: 'Everything you need to know about web caching'
 isNew: false
 type: 'textual'

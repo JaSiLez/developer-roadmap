@@ -19,7 +19,7 @@ export function AIRoadmapAlert(props: AIRoadmapAlertProps) {
         {isListing
           ? 'These are AI generated roadmaps and are not verified by'
           : 'This is an AI generated roadmap and is not verified by'}{' '}
-        <span className={'font-semibold'}>roadmap.sh</span>. We are currently in
+        <span className={'font-semibold'}>stemdo-roadmap.io</span>. We are currently in
         beta and working hard to improve the quality of the generated roadmaps.
       </p>
       <p className="mb-1.5 mt-2 flex flex-col gap-2 text-sm sm:flex-row">

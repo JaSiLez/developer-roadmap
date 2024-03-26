@@ -14,13 +14,13 @@ dimensions:
 schema:
   headline: 'SQL Roadmap'
   description: 'Comprehensive roadmap to learn SQL from scratch in 2024. From basic syntax to advanced querying, this step-by-step guide will equip you with the skills needed to excel in database management and data analysis.'
-  imageUrl: 'https://roadmap.sh/roadmaps/sql.png'
+  imageUrl: 'https://stemdo-roadmap.io/roadmaps/sql.png'
   datePublished: '2023-07-10'
   dateModified: '2023-07-10'
 seo:
-  title: 'SQL Roadmap - roadmap.sh'
+  title: 'SQL Roadmap - stemdo-roadmap.io'
   description: 'Comprehensive roadmap to learn SQL from scratch in 2024. From basic syntax to advanced querying, this step-by-step guide will equip you with the skills needed to excel in database management and data analysis.'
-  ogImageUrl: 'https://roadmap.sh/og-images/sql-roadmap.png'
+  ogImageUrl: 'https://stemdo-roadmap.io/og-images/sql-roadmap.png'
   keywords:
     - 'sql tutorial'
     - 'step by step guide for sql'

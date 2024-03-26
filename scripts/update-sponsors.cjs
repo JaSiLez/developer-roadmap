@@ -57,7 +57,7 @@ function addPageSponsor({
   adDescription,
 }) {
   const urlPart = pageUrl
-    .replace('https://roadmap.sh/', '')
+    .replace('https://stemdo-roadmap.io/', '')
     .replace(/\?.+?$/, '');
 
   const parentDir = urlPart.startsWith('best-practices/')

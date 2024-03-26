@@ -3,7 +3,7 @@ title: 'What is CI and CD?'
 description: 'Learn the basics of CI/CD and how to implement that with GitHub Actions.'
 authorId: 'kamran'
 seo:
-  title: 'What is CI and CD? - roadmap.sh'
+  title: 'What is CI and CD? - stemdo-roadmap.io'
   description: 'Learn the basics of CI/CD and how to implement that with GitHub Actions.'
 isNew: false
 type: 'visual'

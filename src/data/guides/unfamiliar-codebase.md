@@ -3,7 +3,7 @@ title: 'Unfamiliar Codebase'
 description: 'Tips on getting familiar with an unfamiliar codebase'
 authorId: 'kamran'
 seo:
-  title: 'Unfamiliar Codebase - roadmap.sh'
+  title: 'Unfamiliar Codebase - stemdo-roadmap.io'
   description: 'Tips on getting familiar with an unfamiliar codebase'
 isNew: false
 type: 'visual'

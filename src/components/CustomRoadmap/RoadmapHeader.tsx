@@ -135,7 +135,7 @@ export function RoadmapHeader(props: RoadmapHeaderProps) {
             <ShareRoadmapButton
               roadmapId={roadmapId!}
               description={description!}
-              pageUrl={`https://roadmap.sh/r?id=${roadmapId}`}
+              pageUrl={`https://stemdo-roadmap.io/r?id=${roadmapId}`}
               allowEmbed={true}
             />
           </div>

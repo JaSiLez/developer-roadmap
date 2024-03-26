@@ -3,7 +3,7 @@ title: 'Random Numbers: Are they?'
 description: 'Learn how they are generated and why they may not be truly random.'
 authorId: 'kamran'
 seo:
-  title: 'Random Numbers: Are they? - roadmap.sh'
+  title: 'Random Numbers: Are they? - stemdo-roadmap.io'
   description: 'Learn how they are generated and why they may not be truly random.'
 isNew: false
 type: 'visual'

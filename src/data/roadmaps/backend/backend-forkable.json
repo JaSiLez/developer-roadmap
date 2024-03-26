@@ -3954,7 +3954,7 @@
       "selected": false,
       "data": {
         "label": "Software Design & Architecture",
-        "href": "https://roadmap.sh/software-design-architecture",
+        "href": "https://stemdo-roadmap.io/software-design-architecture",
         "color": "#ffffff",
         "backgroundColor": "#4136d4",
         "style": {
@@ -5012,7 +5012,7 @@
       "selected": false,
       "data": {
         "label": "API Security Best Practices",
-        "href": "https://roadmap.sh/best-practices/api-security",
+        "href": "https://stemdo-roadmap.io/best-practices/api-security",
         "color": "#ffffff",
         "backgroundColor": "#4136d4",
         "style": {

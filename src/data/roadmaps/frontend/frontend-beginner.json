@@ -394,7 +394,7 @@
           "x": "726",
           "y": "413",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/frontend"
+            "controlName": "ext_link:stemdo-roadmap.io/frontend"
           },
           "children": {
             "controls": {
@@ -498,7 +498,7 @@
           "x": "1011",
           "y": "343",
           "properties": {
-            "controlName": "ext_link:roadmap.sh"
+            "controlName": "ext_link:stemdo-roadmap.io"
           },
           "children": {
             "controls": {
@@ -513,7 +513,7 @@
                   "y": "0",
                   "properties": {
                     "size": "20",
-                    "text": "https://roadmap.sh",
+                    "text": "https://stemdo-roadmap.io",
                     "color": "10027263"
                   }
                 }

@@ -3,7 +3,7 @@ title: 'What are Web Vitals?'
 description: 'Learn what are the core web vitals and how to measure them.'
 authorId: 'kamran'
 seo:
-  title: 'What are Web Vitals? - roadmap.sh'
+  title: 'What are Web Vitals? - stemdo-roadmap.io'
   description: 'Learn what are the core web vitals and how to measure them.'
 isNew: false
 type: 'visual'

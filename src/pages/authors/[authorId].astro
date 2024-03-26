@@ -28,20 +28,20 @@ const videos = await getVideosByAuthor(authorId);
 
 <BaseLayout
   permalink={`/author/${author.id}`}
-  title={`${author.frontmatter.name} - Author at roadmap.sh`}
+  title={`${author.frontmatter.name} - Author at stemdo-roadmap.io`}
   briefTitle={author.frontmatter.name}
-  ogImageUrl={`https://roadmap.sh/${authorFrontmatter.imageUrl}`}
-  description={`${author.frontmatter.name} has written ${guides.length} articles on roadmap.sh on a variety of topics.`}
+  ogImageUrl={`https://stemdo-roadmap.io/${authorFrontmatter.imageUrl}`}
+  description={`${author.frontmatter.name} has written ${guides.length} articles on stemdo-roadmap.io on a variety of topics.`}
   noIndex={false}
   jsonLd={[
     {
       '@context': 'https://schema.org/',
       '@type': 'Person',
       name: authorFrontmatter.name,
-      url: `https://roadmap.sh/authors/${authorId}`,
+      url: `https://stemdo-roadmap.io/authors/${authorId}`,
       image: authorFrontmatter.imageUrl.startsWith('http')
         ? authorFrontmatter.imageUrl
-        : `https://roadmap.sh${authorFrontmatter.imageUrl}`,
+        : `https://stemdo-roadmap.io${authorFrontmatter.imageUrl}`,
       sameAs: authorFrontmatter.social
         ? Object.values(authorFrontmatter.social)
         : [],

@@ -3,7 +3,7 @@ title: 'Jump Servers: What, Why and How'
 description: 'Learn what is a Jump Server and how to set it up for SSH access.'
 authorId: 'kamran'
 seo:
-  title: 'Jump Servers: What, Why and How - roadmap.sh'
+  title: 'Jump Servers: What, Why and How - stemdo-roadmap.io'
   description: 'Learn what is a Jump Server and how to set it up for SSH access.'
 isNew: false
 type: 'textual'

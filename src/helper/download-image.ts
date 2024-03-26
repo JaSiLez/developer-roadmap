@@ -46,7 +46,7 @@ export async function downloadGeneratedRoadmapImage(
     <span
       class='rounded-md bg-black py-2 px-2 text-white'
     >
-      roadmap.sh
+      stemdo-roadmap.io
     </span>
   `;
   node.insertAdjacentElement('afterbegin', watermark);

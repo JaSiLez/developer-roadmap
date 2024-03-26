@@ -63,7 +63,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:stemdo-roadmap.io"
                   },
                   "children": {
                     "controls": {
@@ -93,7 +93,7 @@
                           "y": "11",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
+                            "text": "https://stemdo-roadmap.io",
                             "size": "18"
                           }
                         }

@@ -2281,7 +2281,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:stemdo-roadmap.io"
                   },
                   "children": {
                     "controls": {
@@ -2311,7 +2311,7 @@
                           "y": "11",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
+                            "text": "https://stemdo-roadmap.io",
                             "size": "18"
                           }
                         }
@@ -2710,7 +2710,7 @@
           "x": "341",
           "y": "477",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/game-developer"
+            "controlName": "ext_link:stemdo-roadmap.io/game-developer"
           },
           "children": {
             "controls": {

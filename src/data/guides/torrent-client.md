@@ -3,7 +3,7 @@ title: 'Building a BitTorrent Client'
 description: 'Learn everything you need to know about BitTorrent by writing a client in Go'
 authorId: 'jesse-li'
 seo:
-  title: 'Building a BitTorrent Client - roadmap.sh'
+  title: 'Building a BitTorrent Client - stemdo-roadmap.io'
   description: 'Learn everything you need to know about BitTorrent by writing a client in Go'
 isNew: false
 type: 'textual'

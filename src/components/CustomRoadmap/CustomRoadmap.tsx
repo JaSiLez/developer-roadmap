@@ -94,7 +94,7 @@ export function CustomRoadmap(props: CustomRoadmapProps) {
       return;
     }
 
-    document.title = `${response.title} - roadmap.sh`;
+    document.title = `${response.title} - stemdo-roadmap.io`;
 
     setRoadmap(response);
     currentRoadmap.set(response);

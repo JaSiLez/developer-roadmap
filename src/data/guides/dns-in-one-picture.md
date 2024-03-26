@@ -3,7 +3,7 @@ title: 'DNS in One Picture'
 description: 'Quick illustrative guide on how a website is found on the internet.'
 authorId: 'kamran'
 seo:
-  title: 'DNS in One Picture - roadmap.sh'
+  title: 'DNS in One Picture - stemdo-roadmap.io'
   description: 'Quick illustrative guide on how a website is found on the internet.'
 isNew: false
 type: 'visual'

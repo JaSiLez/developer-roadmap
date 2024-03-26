@@ -11,7 +11,7 @@ class Roadmap {
   }
 
   getRoadmapUrl() {
-    console.log(`https://roadmap.sh/${this.slug}`);
+    console.log(`https://stemdo-roadmap.io/${this.slug}`);
   }
 }
 
@@ -31,7 +31,7 @@ const js = new JavaScript(
   'javascript'
 );
 
-js.getRoadmapUrl(); // https://roadmap.sh/javascript
+js.getRoadmapUrl(); // https://stemdo-roadmap.io/javascript
 js.greet(); // JavaScript Roadmap - Learn JavaScript
 ```
 

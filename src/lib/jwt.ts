@@ -38,14 +38,14 @@ export function setAuthToken(token: string) {
     expires: 30,
     sameSite: 'lax',
     secure: true,
-    domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+    domain: import.meta.env.DEV ? 'localhost' : '.stemdo-roadmap.io',
   });
 }
 
 export function removeAuthToken() {
   Cookies.remove(TOKEN_COOKIE_NAME, {
     path: '/',
-    domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+    domain: import.meta.env.DEV ? 'localhost' : '.stemdo-roadmap.io',
   });
 }
 
@@ -60,14 +60,14 @@ export function visitAIRoadmap(roadmapId: string) {
     expires: 1 / 24, // 1 hour
     sameSite: 'lax',
     secure: !import.meta.env.DEV,
-    domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+    domain: import.meta.env.DEV ? 'localhost' : '.stemdo-roadmap.io',
   });
 }
 
 export function deleteOpenAIKey() {
   Cookies.remove('oak', {
     path: '/',
-    domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+    domain: import.meta.env.DEV ? 'localhost' : '.stemdo-roadmap.io',
   });
 }
 
@@ -77,7 +77,7 @@ export function saveOpenAIKey(apiKey: string) {
     expires: 365,
     sameSite: 'lax',
     secure: true,
-    domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+    domain: import.meta.env.DEV ? 'localhost' : '.stemdo-roadmap.io',
   });
 }
 

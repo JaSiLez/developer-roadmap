@@ -390,7 +390,7 @@ export function GenerateRoadmap() {
     );
   }
 
-  const pageUrl = `https://roadmap.sh/ai?id=${roadmapId}`;
+  const pageUrl = `https://stemdo-roadmap.io/ai?id=${roadmapId}`;
   const canGenerateMore = roadmapLimitUsed < roadmapLimit;
   const isLoggedInUser = isLoggedIn();
 
@@ -596,7 +596,7 @@ export function GenerateRoadmap() {
                   </button>
                   {roadmapId && (
                     <ShareRoadmapButton
-                      description={`Check out ${roadmapTerm} roadmap I generated on roadmap.sh`}
+                      description={`Check out ${roadmapTerm} roadmap I generated on stemdo-roadmap.io`}
                       pageUrl={pageUrl}
                     />
                   )}

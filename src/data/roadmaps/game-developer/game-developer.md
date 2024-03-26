@@ -13,7 +13,7 @@ dimensions:
 schema:
   headline: 'Game Developer Roadmap'
   description: 'Learn what Game Development is, what game developers do and how to become one using our community-driven roadmap.'
-  imageUrl: 'https://roadmap.sh/roadmaps/game-developer.png'
+  imageUrl: 'https://stemdo-roadmap.io/roadmaps/game-developer.png'
   datePublished: '2023-10-26'
   dateModified: '2023-10-26'
 seo:

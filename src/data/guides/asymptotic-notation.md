@@ -3,7 +3,7 @@ title: 'Asymptotic Notation'
 description: 'Learn the basics of measuring the time and space complexity of algorithms'
 authorId: 'kamran'
 seo:
-  title: 'Asymptotic Notation - roadmap.sh'
+  title: 'Asymptotic Notation - stemdo-roadmap.io'
   description: 'Learn the basics of measuring the time and space complexity of algorithms'
 isNew: false
 type: 'visual'

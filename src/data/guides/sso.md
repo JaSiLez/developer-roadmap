@@ -3,7 +3,7 @@ title: 'SSO — Single Sign On'
 description: 'Learn the basics of SAML and understand how does Single Sign On work.'
 authorId: 'kamran'
 seo:
-  title: 'SSO — Single Sign On - roadmap.sh'
+  title: 'SSO — Single Sign On - stemdo-roadmap.io'
   description: 'Learn the basics of SAML and understand how does Single Sign On work.'
 isNew: false
 type: 'visual'

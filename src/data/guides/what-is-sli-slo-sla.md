@@ -3,7 +3,7 @@ title: 'SLIs, SLOs and SLAs'
 description: 'Learn what are different indicators for performance identification of any service.'
 authorId: 'kamran'
 seo:
-  title: 'SLIs, SLOs and SLAs - roadmap.sh'
+  title: 'SLIs, SLOs and SLAs - stemdo-roadmap.io'
   description: 'Learn what are different indicators for performance identification of any service.'
 isNew: false
 type: 'visual'

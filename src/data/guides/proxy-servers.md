@@ -3,7 +3,7 @@ title: 'Proxy Servers'
 description: 'How do proxy servers work and what are forward and reverse proxies?'
 authorId: 'ebrahim-bharmal'
 seo:
-  title: 'Proxy Servers - roadmap.sh'
+  title: 'Proxy Servers - stemdo-roadmap.io'
   description: 'How do proxy servers work and what are forward and reverse proxies?'
 isNew: false
 type: 'textual'

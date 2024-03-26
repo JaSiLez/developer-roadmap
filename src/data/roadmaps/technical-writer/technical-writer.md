@@ -13,7 +13,7 @@ dimensions:
 schema:
   headline: 'Technical Writer Roadmap'
   description: 'Learn what technical writing is, what technical writers do and how to become one using our community-driven roadmap.'
-  imageUrl: 'https://roadmap.sh/roadmaps/technical-writer.png'
+  imageUrl: 'https://stemdo-roadmap.io/roadmaps/technical-writer.png'
   datePublished: '2023-11-07'
   dateModified: '2023-11-07'
 seo:

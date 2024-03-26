@@ -12,7 +12,7 @@ body:
     attributes:
       label: Roadmap URL
       description: Please provide the URL of the roadmap you are suggesting changes to.
-      placeholder: https://roadmap.sh
+      placeholder: https://stemdo-roadmap.io
     validations:
       required: true
   - type: textarea

@@ -13,9 +13,9 @@ You don't necessarily need to learn all of these, how to implement and the ins a
 
 Visit the following resources to learn more:
 
-- [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [Session Based Authentication](https://roadmap.sh/guides/session-authentication)
-- [Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [OAuth](https://roadmap.sh/guides/oauth)
-- [SSO - Single Sign On](https://roadmap.sh/guides/sso)
+- [Basic Authentication](https://stemdo-roadmap.io/guides/basic-authentication)
+- [Session Based Authentication](https://stemdo-roadmap.io/guides/session-authentication)
+- [Token Based Authentication](https://stemdo-roadmap.io/guides/token-authentication)
+- [JWT Authentication](https://stemdo-roadmap.io/guides/jwt-authentication)
+- [OAuth](https://stemdo-roadmap.io/guides/oauth)
+- [SSO - Single Sign On](https://stemdo-roadmap.io/guides/sso)

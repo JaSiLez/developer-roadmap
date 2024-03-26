@@ -3,7 +3,7 @@ title: 'HTTP Basic Authentication'
 description: 'Learn what is HTTP Basic Authentication and how to implement it in Node.js'
 authorId: 'kamran'
 seo:
-  title: 'HTTP Basic Authentication - roadmap.sh'
+  title: 'HTTP Basic Authentication - stemdo-roadmap.io'
   description: 'Learn what is HTTP Basic Authentication and how to implement it in Node.js'
 isNew: false
 type: 'textual'

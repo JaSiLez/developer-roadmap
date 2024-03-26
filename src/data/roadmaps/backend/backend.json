@@ -3002,7 +3002,7 @@
           "x": "1671",
           "y": "2588",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/docker"
+            "controlName": "ext_link:stemdo-roadmap.io/docker"
           },
           "children": {
             "controls": {
@@ -3134,7 +3134,7 @@
           "x": "976",
           "y": "2927",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/graphql"
+            "controlName": "ext_link:stemdo-roadmap.io/graphql"
           },
           "children": {
             "controls": {
@@ -5735,7 +5735,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:stemdo-roadmap.io"
                   },
                   "children": {
                     "controls": {
@@ -5766,7 +5766,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "stemdo-roadmap.io"
                           }
                         },
                         {
@@ -8384,7 +8384,7 @@
           "x": "1005",
           "y": "2264",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/software-design-architecture"
+            "controlName": "ext_link:stemdo-roadmap.io/software-design-architecture"
           },
           "children": {
             "controls": {
@@ -9866,7 +9866,7 @@
           "x": "1673",
           "y": "2653",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/kubernetes"
+            "controlName": "ext_link:stemdo-roadmap.io/kubernetes"
           },
           "children": {
             "controls": {
@@ -11563,7 +11563,7 @@
           "x": "1154",
           "y": "3738",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops"
+            "controlName": "ext_link:stemdo-roadmap.io/devops"
           },
           "children": {
             "controls": {
@@ -11657,7 +11657,7 @@
           "x": "1568",
           "y": "2039",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/best-practices/api-security"
+            "controlName": "ext_link:stemdo-roadmap.io/best-practices/api-security"
           },
           "children": {
             "controls": {
@@ -12994,7 +12994,7 @@
           "x": "1184",
           "y": "3447",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops?r=devops-beginner"
+            "controlName": "ext_link:stemdo-roadmap.io/devops?r=devops-beginner"
           },
           "children": {
             "controls": {

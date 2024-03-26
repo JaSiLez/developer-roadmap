@@ -3,7 +3,7 @@ title: 'Basics of Authentication'
 description: 'Learn the basics of Authentication and Authorization'
 authorId: 'kamran'
 seo:
-  title: 'Basics of Authentication - roadmap.sh'
+  title: 'Basics of Authentication - stemdo-roadmap.io'
   description: 'Learn the basics of Authentication and Authorization'
 isNew: false
 type: 'textual'

@@ -11,7 +11,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://roadmap.sh/',
+  site: 'https://stemdo-roadmap.io/',
   markdown: {
     shikiConfig: {
       theme: 'dracula',
@@ -30,7 +30,7 @@ export default defineConfig({
               'https://github.com/kamranahmedse',
               'https://thenewstack.io',
               'https://cs.fyi',
-              'https://roadmap.sh',
+              'https://stemdo-roadmap.io',
             ];
             if (whiteListedStarts.some((start) => href.startsWith(start))) {
               return [];

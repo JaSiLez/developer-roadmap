@@ -5,7 +5,7 @@ The prototype chain in JavaScript refers to the chain of objects linked by their
 ```js
 const roadmap = {
   getRoadmapUrl() {
-    console.log(`https://roadmap.sh/${this.slug}`);
+    console.log(`https://stemdo-roadmap.io/${this.slug}`);
   },
 };
 
@@ -20,7 +20,7 @@ const javascript = {
 
 Object.setPrototypeOf(javascript, roadmap); // or javascript.__proto__ = roadmap;
 
-javascript.getRoadmapUrl(); // https://roadmap.sh/javascript
+javascript.getRoadmapUrl(); // https://stemdo-roadmap.io/javascript
 javascript.greet(); // JavaScript Roadmap - Learn JavaScript
 ```
 

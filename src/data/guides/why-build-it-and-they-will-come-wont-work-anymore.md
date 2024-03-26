@@ -3,7 +3,7 @@ title: 'Build it and they will come?'
 description: 'Why “build it and they will come” alone won’t work anymore'
 authorId: 'peter-thaleikis'
 seo:
-  title: 'Build it and they will come? - roadmap.sh'
+  title: 'Build it and they will come? - stemdo-roadmap.io'
   description: 'Why “build it and they will come” alone won’t work anymore'
 isNew: false
 type: 'textual'

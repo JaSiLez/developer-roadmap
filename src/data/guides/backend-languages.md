@@ -18,7 +18,7 @@ tags:
   - 'guide-sitemap'
 ---
 
-Web development is typically divided into two main categories: [backend development](https://roadmap.sh/backend) and [frontend development](https://roadmap.sh/frontend). Frontend development focuses on the visible part of the application for end-users, i.e. the part that users interact with, while backend development involves writing code that remains unseen but is essential for the functioning of all applications—the business logic.
+Web development is typically divided into two main categories: [backend development](https://stemdo-roadmap.io/backend) and [frontend development](https://stemdo-roadmap.io/frontend). Frontend development focuses on the visible part of the application for end-users, i.e. the part that users interact with, while backend development involves writing code that remains unseen but is essential for the functioning of all applications—the business logic.
 
 Two of the key components when it comes to backend development are the programming language that you are going to code in and the database. In this article, we will be looking into a subset of programming languages that could be used for backend development. We will be discussing the pros and cons of each and the community to help you pick the best programming language for backend development.
 
@@ -318,19 +318,19 @@ Once you’ve answered those questions, you’ll probably have some idea of wher
 
 In the end, you’re evaluating the language and its ecosystem, making sure they’re both evolving right along the web industry. If you find that there are aspects that are falling behind, then it probably isn’t a good choice.
 
-A handy tool when trying to evaluate a language like that is [roadmap.sh](https://roadmap.sh).
+A handy tool when trying to evaluate a language like that is [stemdo-roadmap.io](https://stemdo-roadmap.io).
 
-[![Roadmap.sh](/guides/backend-languages/backend-roadmap-part.png)](https://roadmap.sh/backend)
+[![stemdo-roadmap.io](/guides/backend-languages/backend-roadmap-part.png)](https://stemdo-roadmap.io/backend)
 
-<p align="center" style="font-size: 14px; margin-top: -10px; text-align: center">Small section of the full backend roadmap available on <a href="https://roadmap.sh/backend">roadmap.sh</a></p>
+<p align="center" style="font-size: 14px; margin-top: -10px; text-align: center">Small section of the full backend roadmap available on <a href="https://stemdo-roadmap.io/backend">stemdo-roadmap.io</a></p>
 
-There you’ll find community-maintained roadmaps for many career paths within software development. In particular, for this article, the [backend roadmap](https://roadmap.sh/backend) is a great place to start, because while picking a backend language is important, you’ll see there that it’s not just about the language. In fact, there is a lot of tech around the language that is also required (I’m referring to databases, git, understanding how client-server communication works, and a big “etc).
+There you’ll find community-maintained roadmaps for many career paths within software development. In particular, for this article, the [backend roadmap](https://stemdo-roadmap.io/backend) is a great place to start, because while picking a backend language is important, you’ll see there that it’s not just about the language. In fact, there is a lot of tech around the language that is also required (I’m referring to databases, git, understanding how client-server communication works, and a big “etc).
 
 ### Jumpstarting Your Backend Development Journey
 
 To get started with your backend development journey, it's crucial to have a roadmap that guides you through the learning process and equips you with the skills to build robust and scalable backend systems.
 
-Lucky for you, if you’re reading this, that means you’ve found the most complete and comprehensive roadmap online: [roadmap.sh](https://roadmap.sh), the current [backend roadmap](https://roadmap.sh/backend) is filled with details of everything you should and could (optionally) learn in your journey to becoming a backend developer.
+Lucky for you, if you’re reading this, that means you’ve found the most complete and comprehensive roadmap online: [stemdo-roadmap.io](https://stemdo-roadmap.io), the current [backend roadmap](https://stemdo-roadmap.io/backend) is filled with details of everything you should and could (optionally) learn in your journey to becoming a backend developer.
 
 ### Guided Learning: From Online Courses to Bootcamps
 
@@ -379,4 +379,4 @@ In the end, there are many backend programming languages to choose from, and wha
 
 You’re the one who gets to decide, but just know that no matter what you choose, getting started in backend development is a one-way street. You’ll be learning from this moment on, and you’ll be jumping from one language to the other as the field evolves.
 
-Remember that there is a very detailed version of a [backend roadmap here](https://roadmap.sh/backend), it might be a great place to get started! And if you’re also interested in frontend development, there is an [equally handy roadmap](https://roadmap.sh/frontend) here as well!
+Remember that there is a very detailed version of a [backend roadmap here](https://stemdo-roadmap.io/backend), it might be a great place to get started! And if you’re also interested in frontend development, there is an [equally handy roadmap](https://stemdo-roadmap.io/frontend) here as well!

@@ -22,7 +22,7 @@ export function EmbedRoadmapModal(props: ShareRoadmapModalProps) {
   const { copyText, isCopied } = useCopyText();
 
   const isDev = import.meta.env.DEV;
-  const baseUrl = isDev ? 'http://localhost:3000' : 'https://roadmap.sh';
+  const baseUrl = isDev ? 'http://localhost:3000' : 'https://stemdo-roadmap.io';
 
   const embedHtml = `<iframe src="${baseUrl}/r/embed?id=${roadmapId}" width="100%" height="500px" frameBorder="0"\n></iframe>`;
 

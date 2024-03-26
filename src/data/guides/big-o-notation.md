@@ -3,7 +3,7 @@ title: 'Big-O Notation'
 description: 'Easy to understand explanation of Big-O notation without any fancy terms'
 authorId: 'kamran'
 seo:
-  title: 'Big-O Notation - roadmap.sh'
+  title: 'Big-O Notation - stemdo-roadmap.io'
   description: 'Easy to understand explanation of Big-O notation without any fancy terms'
 isNew: false
 type: 'visual'

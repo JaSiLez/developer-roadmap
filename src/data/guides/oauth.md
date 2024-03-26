@@ -3,7 +3,7 @@ title: 'OAuth — Open Authorization'
 description: 'Learn and understand what is OAuth and how it works'
 authorId: 'kamran'
 seo:
-  title: 'OAuth — Open Authorization - roadmap.sh'
+  title: 'OAuth — Open Authorization - stemdo-roadmap.io'
   description: 'Learn and understand what is OAuth and how it works'
 isNew: false
 type: 'visual'

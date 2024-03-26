@@ -3,7 +3,7 @@ title: 'DHCP in One Picture'
 description: 'Here is what happens when a new device joins the network.'
 authorId: 'kamran'
 seo:
-  title: 'DHCP in One Picture - roadmap.sh'
+  title: 'DHCP in One Picture - stemdo-roadmap.io'
   description: 'Here is what happens when a new device joins the network.'
 isNew: false
 type: 'visual'

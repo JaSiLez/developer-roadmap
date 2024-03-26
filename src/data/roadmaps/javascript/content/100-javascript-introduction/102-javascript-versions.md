@@ -5,5 +5,5 @@ JavaScript, invented by Brendan Eich, achieved the status of an ECMA standard in
 Visit the following resources to learn more:
 
 - [JavaScript Versions: How JavaScript has changed over the years](https://www.educative.io/blog/javascript-versions-history)
-- [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
+- [Brief History of JavaScript](https://stemdo-roadmap.io/guides/history-of-javascript)
 - [JavaScript Version](https://www.w3schools.com/js/js_versions.asp)

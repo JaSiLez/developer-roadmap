@@ -14,7 +14,7 @@ dimensions:
 schema:
   headline: 'Rust Developer Roadmap'
   description: 'Learn how to become a Rust Developer with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
-  imageUrl: 'https://roadmap.sh/roadmaps/rust.png'
+  imageUrl: 'https://stemdo-roadmap.io/roadmaps/rust.png'
   datePublished: '2023-11-14'
   dateModified: '2023-11-14'
 seo:

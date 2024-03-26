@@ -3,7 +3,7 @@ title: 'JWT Authentication'
 description: 'Understand what is JWT authentication and how is it implemented'
 authorId: 'kamran'
 seo:
-  title: 'JWT Authentication - roadmap.sh'
+  title: 'JWT Authentication - stemdo-roadmap.io'
   description: 'Understand what is JWT authentication and how is it implemented'
 isNew: false
 type: 'visual'

@@ -78,7 +78,7 @@ export function ShareRoadmapModal(props: ShareRoadmapModalProps) {
   function handleCopy() {
     const isDev = import.meta.env.DEV;
     const url = new URL(
-      isDev ? 'http://localhost:3000/r' : 'https://roadmap.sh/r'
+      isDev ? 'http://localhost:3000/r' : 'https://stemdo-roadmap.io/r'
     );
     url.searchParams.set('id', roadmapId);
     copyText(url.toString());

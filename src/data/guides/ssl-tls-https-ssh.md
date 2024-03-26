@@ -3,7 +3,7 @@ title: 'SSL vs TLS vs SSH'
 description: 'Quick tidbit on the differences between SSL, TLS, HTTPS and SSH'
 authorId: 'kamran'
 seo:
-  title: 'SSL vs TLS vs SSH - roadmap.sh'
+  title: 'SSL vs TLS vs SSH - stemdo-roadmap.io'
   description: 'Quick tidbit on the differences between SSL, TLS, HTTPS and SSH'
 isNew: false
 type: 'visual'

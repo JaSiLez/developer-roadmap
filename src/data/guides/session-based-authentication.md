@@ -3,7 +3,7 @@ title: 'Session Based Authentication'
 description: 'Learn what is Session Based Authentication and how to implement it in Node.js'
 authorId: 'kamran'
 seo:
-  title: 'Session Based Authentication - roadmap.sh'
+  title: 'Session Based Authentication - stemdo-roadmap.io'
   description: 'Learn what is Session Based Authentication and how to implement it in Node.js'
 isNew: false
 type: 'textual'
